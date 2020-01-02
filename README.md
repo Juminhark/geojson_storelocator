@@ -13,9 +13,13 @@ fetch api
 
 
 > mkdir store_locator_api
+
 > cd store_locator_api
+
 > npm init -y
+
 > npm i express mongoose dotenv node-geocoder cors
+
 > npm i -D nodemon
 
 package.json --
@@ -26,6 +30,9 @@ package.json --
  }
 
 https://www.npmjs.com/package/node-geocoder
+
 https://mongoosejs.com/docs/geojson.html
+
 https://developer.mapquest.com
+
 https://docs.mapbox.com/mapbox-gl-js/example/add-image
