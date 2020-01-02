@@ -23,10 +23,15 @@ fetch api
 > npm i -D nodemon
 
 package.json --
+
 "main": "server.js",
+
 "scripts": {
+
    "start":"node server.js",
+   
    "dev": "nodemon server.js"
+   
  }
 
 https://www.npmjs.com/package/node-geocoder
